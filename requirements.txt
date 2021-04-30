@@ -219,7 +219,7 @@ traitlets==4.3.3
 Twisted==19.10.0
 uritools==3.0.0
 urlextract==0.14.0
-urllib3==1.25.7
+urllib3==1.25.8
 vk-api==11.6.1
 w3lib==1.21.0
 wcwidth==0.1.8
